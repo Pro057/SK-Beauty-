@@ -1,0 +1,17 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.log
+
+# Fichiers de configuration
+.env
+*.local.php
+
+# Dossiers de données
+data/
+logs/
+*.db
+
+# Fichiers temporaires
+*~
+*.swp
